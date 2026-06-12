@@ -3,4 +3,4 @@ Este repositorio contiene el PDF del trabajo de fin de master de Resolución de 
 
 En concreto la resolución de un problema complejo en el ámbito de residencias geriátricas.
 
-[Acceso al PDF]([url](https://sikorsky1.github.io/toma-de-decisiones-basadas-en-ia-en-entornos-sociosanitarios/))
+[Acceso al PDF](./CPS-en-residencias-geriátricas.pdf)
